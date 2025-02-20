@@ -65,6 +65,6 @@ app.UseAuthorization();
 app.MapControllers();
 
 // Enable the rate limiter middleware
-//app.UseRateLimiter();
+app.UseRateLimiter();
 
 app.Run();
