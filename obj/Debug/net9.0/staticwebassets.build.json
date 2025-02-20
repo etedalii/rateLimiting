@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ie2DGL4dFxy9NnNdpjisa5GsF963ARfFhWIuwsBQzJ8=",
+  "Source": "rateLimiting",
+  "BasePath": "_content/rateLimiting",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
